@@ -1,0 +1,6 @@
+-----BEGIN RSA PRIVATE KEY-----
+Dummy file
+-----END RSA PRIVATE KEY-----
+-----BEGIN CERTIFICATE-----
+dummy file
+-----END CERTIFICATE-----

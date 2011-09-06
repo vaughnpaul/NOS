@@ -1,0 +1,22 @@
+#logo {
+  background: none;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/logoCreLoaded.png', sizingMethod='image');
+}
+#body-container {
+  background-image: url(images/bgWhite.gif);
+  width: 981px; 
+  /*
+  background: none;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/bgWhite.gif', sizingMethod='crop');
+  width: 942px;
+  height: auto;
+  */
+}
+.installation-button-left, .installation-button-middle, .installation-button-right {
+  height: 23px;
+}
+.installation-button-large-shadow {
+  height: 58px;
+  line-height: 58px;
+	filter: Shadow(Color=#333333, Direction=0, Strength=2);
+}
